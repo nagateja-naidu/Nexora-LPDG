@@ -293,3 +293,8 @@ My approach:
 I then compare my approach with the 3-Sigma baseline using the maintenance cost formula.
 
 The main goal is to identify the gateways that should receive the limited maintenance visits while keeping the estimated maintenance cost low.
+
+
+##LINK FOR THE SCREEN RECORDING VIDEO 
+https://drive.google.com/file/d/1klU74vnkwsIBC31JdHAJaqE8Vb5szENl/view?usp=drive_link
+
